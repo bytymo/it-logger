@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Byron Mosley",
+      "date": "2021-03-22T23:59:35.215Z"
+    },
+    {
+      "message": "Hard drive failed in workstation 012",
+      "attention": true,
+      "tech": "Walter White",
+      "date": "2021-03-21T19:19:32.021Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "fixed 1122 wireless signal",
+      "attention": false,
+      "tech": "Walter White",
+      "date": "2021-03-21T20:04:55.105Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "James",
+      "lastName": "Bond"
+    },
+    {
+      "id": 3,
+      "firstName": "Walter",
+      "lastName": "White"
+    },
+    {
+      "firstName": "Byron",
+      "lastName": "Mosley",
+      "id": 4
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Sparrow",
+      "id": 5
+    }
+  ]
+}
